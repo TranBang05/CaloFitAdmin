@@ -74,3 +74,4 @@ E:\Kì 8\PRN231\AdminCaloFit\AdminApi\bin\Debug\net6.0\Microsoft.OData.Core.dll
 E:\Kì 8\PRN231\AdminCaloFit\AdminApi\bin\Debug\net6.0\Microsoft.OData.Edm.dll
 E:\Kì 8\PRN231\AdminCaloFit\AdminApi\bin\Debug\net6.0\Microsoft.OData.ModelBuilder.dll
 E:\Kì 8\PRN231\AdminCaloFit\AdminApi\bin\Debug\net6.0\Microsoft.Spatial.dll
+E:\Kì 8\PRN231\AdminCaloFit\AdminApi\obj\Debug\net6.0\AdminApi.sourcelink.json
