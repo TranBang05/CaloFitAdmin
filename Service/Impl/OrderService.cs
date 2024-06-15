@@ -53,7 +53,8 @@ namespace AdminApi.Service.Impl
         {
             var orderDetails = _context.OrderDetails
             .Where(od => od.Orderid == orderId)
-            .Include(od => od.Product) // Include Product to map ProductName
+            .Include(od => od.Product)
+                .ThenInclude(p => p.Image) 
             .ToList();
 
             var orderDetailResponses = _mapper.Map<List<OrderDetailResponse>>(orderDetails);
