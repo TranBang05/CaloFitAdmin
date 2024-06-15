@@ -16,7 +16,8 @@ namespace AdminApi.Controllers
         }
 
         [HttpGet]
-        public IActionResult Get()
+		[EnableQuery]
+		public IActionResult Get()
         {
             return Ok(_order.GetOrders());
         }
