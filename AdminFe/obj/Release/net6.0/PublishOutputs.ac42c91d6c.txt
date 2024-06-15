@@ -1,0 +1,8 @@
+E:\Kì 8\PRN231\AdminCaloFit\AdminFe\obj\Release\net6.0\PubTmp\Out\AdminFe.exe
+E:\Kì 8\PRN231\AdminCaloFit\AdminFe\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+E:\Kì 8\PRN231\AdminCaloFit\AdminFe\obj\Release\net6.0\PubTmp\Out\appsettings.json
+E:\Kì 8\PRN231\AdminCaloFit\AdminFe\obj\Release\net6.0\PubTmp\Out\AdminFe.dll
+E:\Kì 8\PRN231\AdminCaloFit\AdminFe\obj\Release\net6.0\PubTmp\Out\AdminFe.deps.json
+E:\Kì 8\PRN231\AdminCaloFit\AdminFe\obj\Release\net6.0\PubTmp\Out\AdminFe.runtimeconfig.json
+E:\Kì 8\PRN231\AdminCaloFit\AdminFe\obj\Release\net6.0\PubTmp\Out\AdminFe.pdb
+E:\Kì 8\PRN231\AdminCaloFit\AdminFe\obj\Release\net6.0\PubTmp\Out\Newtonsoft.Json.dll
